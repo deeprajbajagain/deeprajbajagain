@@ -17,14 +17,14 @@
 ## 💼 Previous Experience
 - **Junior Web Developer Intern**  
   *Dhupi EIT Solution*
-  
+
 - **Technical Support Staff**  
   *Baruwal Group Pvt. Ltd.*
 
 ---
 
 ## 🌟 About Me
-I am a computer programming student with firsthand experience in full-stack development, cloud computing, and DevOps practices. My passion lies in designing, building, and deploying scalable applications using technologies such as JavaScript, Java, Python, ASP.NET, and Docker. 
+I am a computer programming student with firsthand experience in full-stack development, cloud computing, and DevOps practices. My passion lies in designing, building, and deploying scalable applications using technologies such as JavaScript, Java, Python, ASP.NET, and Docker.
 
 I love problem-solving and optimizing processes, and I strive to improve developer productivity through automation. Mentoring peers and sharing knowledge is something I value deeply, and I actively seek opportunities to collaborate in team environments.
 
@@ -35,7 +35,7 @@ I love problem-solving and optimizing processes, and I strive to improve develop
 ### Languages
 <p>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
 </p>
@@ -43,8 +43,7 @@ I love problem-solving and optimizing processes, and I strive to improve develop
 ### Frameworks
 <p>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-boot.png" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/asp-dot-net-core.png" alt="ASP.NET Core" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="ASP.NET Core" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40" height="40"/>
 </p>
 
@@ -52,7 +51,7 @@ I love problem-solving and optimizing processes, and I strive to improve develop
 <p>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
 </p>
 
@@ -66,8 +65,7 @@ I love problem-solving and optimizing processes, and I strive to improve develop
 <p>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/cloud-computing.png" alt="Cloud Computing" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Cloud Computing" width="40" height="40"/>
 </p>
 
 ### Development Tools
@@ -77,14 +75,13 @@ I love problem-solving and optimizing processes, and I strive to improve develop
   <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📫 Contact
-- **Email:** [bungydeep@gmail.com](mailto:bungydeep@gmail.com)  
-- **LinkedIn:** [Deepraj Bajagain](https://www.linkedin.com/in/deepraj-bajagain)  
+- **Email:** [bungydeep@gmail.com](mailto:bungydeep@gmail.com)
+- **LinkedIn:** [Deepraj Bajagain](https://www.linkedin.com/in/deepraj-bajagain)
 
 ---
 
@@ -98,10 +95,7 @@ I love problem-solving and optimizing processes, and I strive to improve develop
   <strong>Banking System</strong>: A Java-based application demonstrating core object-oriented programming principles by managing different types of bank accounts with a user-friendly interface for account creation and transactions.
 </p>
 <p>
-  <img src="https://img.icons8.com/color/48/000000/spring-boot.png" alt="Hotel Management" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Hotel Management" width="40" height="40"/> 
   <strong>Hotel Management</strong>: A Spring Boot web application designed to manage various aspects of hotel operations, including guests, rooms, and reservations.
 </p>
-
 ---
-
-Feel free to let me know if you want to change any logos or make further adjustments!
