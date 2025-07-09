@@ -21,7 +21,7 @@
 ---
 
 ## 🌟 About Me
-I am a computer programming student with firsthand experience in full-stack development, cloud computing, and DevOps practices. My passion lies in designing, building, and deploying scalable applications using technologies such as Java(primary), JavaScript, Python, ASP.NET, and Docker.
+I am a computer programmer with firsthand experience in full-stack development, cloud computing, and DevOps practices. My passion lies in designing, building, and deploying scalable applications using technologies such as Java(primary), JavaScript, Python, ASP.NET, and Docker.
 
 I love problem-solving and optimizing processes, and I strive to improve developer productivity through automation. Mentoring peers and sharing knowledge is something I value deeply, and I actively seek opportunities to collaborate in team environments.
 
@@ -94,4 +94,9 @@ I love problem-solving and optimizing processes, and I strive to improve develop
 <p>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Hotel Management" width="40" height="40"/> 
   <strong>Hotel Management</strong>: A Spring Boot web application designed to manage various aspects of hotel operations, including guests, rooms, and reservations.
+</p>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Hotel Management" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  <strong>Employee Management System</strong>: A full-stack web application built with Spring Boot and React.js, designed to streamline the management of employee records.    This application empowers users to add, view, update, and delete employee details through a responsive frontend and robust RESTful backend.
 </p>
