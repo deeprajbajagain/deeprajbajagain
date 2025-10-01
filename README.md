@@ -3,25 +3,25 @@
 
 # 🌟 Deepraj Bajagain
 
-**Computer Programmer**  
+**Software Developer**  
 **Specializing in Full-Stack Development with Java, JavaScript, and ASP.NET MVC**
 
 ---
 
 ## 🎓 Current Education
-**Computer Programming Student**  
+**Computer Programmer**  
 *Lambton College, Toronto, ON*
 
 ---
 
 ## 💼 Previous Experience
-- **Junior Java Developer Intern**  
+- **Java Developer Intern**  
   *Dhupi EIT Solution*
 
 ---
 
 ## 🌟 About Me
-I am a computer programmer with firsthand experience in full-stack development, cloud computing, and DevOps practices. My passion lies in designing, building, and deploying scalable applications using technologies such as Java(primary), JavaScript, Python, ASP.NET, and Docker.
+I am a software developer with firsthand experience in full-stack development, cloud computing, and DevOps practices. My passion lies in designing, building, and deploying scalable applications using technologies such as Java(primary), JavaScript, Python, ASP.NET, and Docker.
 
 I love problem-solving and optimizing processes, and I strive to improve developer productivity through automation. Mentoring peers and sharing knowledge is something I value deeply, and I actively seek opportunities to collaborate in team environments.
 
